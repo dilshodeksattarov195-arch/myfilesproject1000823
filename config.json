@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvtringify",
+        "uuid": 6154394,
+        "checksum": "bfk69q"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
